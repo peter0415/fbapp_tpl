@@ -3,7 +3,7 @@
 	<head>
       <html xmlns:fb="http://www.facebook.com/2008/fbml">
       <meta http-equiv="Content-type" content="text/html; charset=utf-8" />
-      <title>我的第一個facebook canvas app3</title>
+      <title>我的第一個facebook canvas app</title>
       <!--請在此「開始」設定Open Graph Meta Tag-->
 
 
